@@ -1,0 +1,16 @@
+{
+  "name": "@untrace/threatwall",
+  "version": "0.1.0",
+  "description": "Read the Untrace Threat Wall, check a link, or drop in the widget.",
+  "type": "module",
+  "main": "index.js",
+  "exports": "./index.js",
+  "license": "Apache-2.0",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sky43535/untrace.git",
+    "directory": "packages/threatwall"
+  },
+  "homepage": "https://github.com/sky43535/untrace#readme"
+}

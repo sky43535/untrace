@@ -1,0 +1,16 @@
+{
+  "name": "@untrace/burn-notes",
+  "version": "0.1.0",
+  "description": "Zero-knowledge, read-once notes: client crypto + Untrace API client.",
+  "type": "module",
+  "main": "index.js",
+  "exports": "./index.js",
+  "license": "Apache-2.0",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sky43535/untrace.git",
+    "directory": "packages/burn-notes"
+  },
+  "homepage": "https://github.com/sky43535/untrace#readme"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@untrace/lockbox",
+  "version": "0.1.0",
+  "description": "Read and write the .lockbox encrypted-file format (offline, WebCrypto).",
+  "type": "module",
+  "main": "index.js",
+  "exports": "./index.js",
+  "license": "Apache-2.0",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sky43535/untrace.git",
+    "directory": "packages/lockbox"
+  },
+  "homepage": "https://github.com/sky43535/untrace#readme"
+}

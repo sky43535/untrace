@@ -1,0 +1,8 @@
+<!doctype html><meta charset="utf-8"><title>Threat Wall demo</title>
+<body style="margin:0;background:#050403;color:#f4efe6;font-family:system-ui">
+<div id="wall" style="max-width:480px;margin:40px auto;border:1px solid #333;border-radius:12px;overflow:hidden"></div>
+<script type="module">
+  // Use an ORIGIN-LOCKED key here — never a secret key in a public page.
+  import { mountThreatWall } from '../packages/threatwall/index.js'
+  mountThreatWall(document.getElementById('wall'), { apiKey: 'utk_your-app.your-secret' })
+</script>
