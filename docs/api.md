@@ -22,4 +22,4 @@ Standard keys: 120 requests/min. `plus` keys: 600/min. `/v1/threats/check`: 15/m
 `429` includes `retry-after`. Every response carries `X-Untrace-Attribution`.
 
 ## Getting a key
-Email your **app id** and a line about what you're building (origins if it's a browser app). Keys are issued by hand and sent once.
+Email your **app id** and a line about what you're building to **sky@skysmindtech.com** (origins if it's a browser app). Keys are issued by hand and sent once.

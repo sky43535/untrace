@@ -32,5 +32,8 @@ you put something harmful in one, that's on you, and we may remove it and cut yo
 ## 6. Name and mark
 "Untrace" and the wordmark are not licensed for your product name, logo, or domain. Saying "works with Untrace" is fine.
 
-## 7. No warranty
+## 7. Verified badge
+The “Verified by Untrace” badge is served live and can be withdrawn at any time; don’t copy it, host your own version, or use it after verification is withdrawn.
+
+## 8. No warranty
 The API is provided as is. Threat Wall verdicts are signals, not guarantees. Data may expire or be removed at any time.

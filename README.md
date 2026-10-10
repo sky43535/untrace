@@ -24,8 +24,11 @@ Anything that shows Untrace-provided data (Threat Wall, Burn Notes, Meeting Room
 
 ## Getting an API key
 Anything that talks to `https://untrace-api.skylerp530.workers.dev` needs a key. Keys are issued by hand:
-choose an **app id** (3–32 chars, `a-z 0-9 -`), email it with a line about what you're building, and you'll be sent a key like
+choose an **app id** (3–32 chars, `a-z 0-9 -`), email it to **sky@skysmindtech.com** with a line about what you're building, and you'll be sent a key like
 `utk_<appid>.<secret>`. See [docs/api.md](docs/api.md).
+
+## Verified
+Apps that build on Untrace, or share its principles, can get a verified page and a revocable badge: https://untrace.skylerp530.workers.dev/verified
 
 ## Docs
 [Overview](docs/overview.md) · [.lockbox format](docs/lockbox-format.md) · [Burn Notes](docs/burn-notes.md) ·
