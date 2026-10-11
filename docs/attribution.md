@@ -2,7 +2,7 @@
 
 Show this at the **top** of every screen or page that displays Untrace-provided data:
 
-> **Provided by** `untrace.` — the wordmark (dashed circle with the salmon centre dot + the word *untrace* + a salmon full stop), linked to `https://untrace.skylerp530.workers.dev`.
+> **Provided by** `untrace.` — the wordmark (dashed circle with the salmon centre dot + the word *untrace* + a salmon full stop), linked to `https://untrace.skysmindtech.com`.
 
 ```html
 <script type="module" src="./packages/attribution/index.js"></script>

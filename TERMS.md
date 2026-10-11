@@ -6,7 +6,7 @@ Apache-2.0 doesn't cover trademarks, and it can't govern a hosted service. These
 ## 1. Attribution (required)
 Every app, site or screen that displays data or functionality served by the Untrace API must show, **at the top of that
 surface**, the line **“Provided by”** followed by the **untrace.** wordmark, linking to
-`https://untrace.skylerp530.workers.dev`. It must be readable (at least 12px / 9pt), on a contrasting background, and not hidden,
+`https://untrace.skysmindtech.com`. It must be readable (at least 12px / 9pt), on a contrasting background, and not hidden,
 collapsed, or removed. The `<untrace-attribution>` element does this correctly.
 
 ## 2. Keys

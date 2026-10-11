@@ -1,5 +1,5 @@
 // <untrace-attribution> — the required "Provided by [untrace. wordmark]" line. Put it at the TOP of any surface showing Untrace data.
-export const SITE = 'https://untrace.skylerp530.workers.dev'
+export const SITE = 'https://untrace.skysmindtech.com'
 
 export const MARK_SVG = '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.6" stroke-dasharray="3.4 3.4"/><circle cx="12" cy="12" r="3" fill="#ef8f7b"/></svg>'
 

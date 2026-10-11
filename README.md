@@ -1,8 +1,8 @@
 # Untrace Open
 
-[github.com/sky43535/untrace](https://github.com/sky43535/untrace) · [site](https://untrace.skylerp530.workers.dev) · [developer page](https://untrace.skylerp530.workers.dev/developers)
+[github.com/sky43535/untrace](https://github.com/sky43535/untrace) · [site](https://untrace.skysmindtech.com) · [developer page](https://untrace.skysmindtech.com/developers)
 
-The shareable parts of [Untrace](https://untrace.skylerp530.workers.dev): the formats, protocols and small client
+The shareable parts of [Untrace](https://untrace.skysmindtech.com): the formats, protocols and small client
 libraries behind **.lockbox files**, **Burn Notes**, the **Meeting Room**, and the **Threat Wall** — so you can use them in
 your own app.
 
@@ -28,7 +28,7 @@ choose an **app id** (3–32 chars, `a-z 0-9 -`), email it to **sky@skysmindtech
 `utk_<appid>.<secret>`. See [docs/api.md](docs/api.md).
 
 ## Verified
-Apps that build on Untrace, or share its principles, can get a verified page and a revocable badge: https://untrace.skylerp530.workers.dev/verified
+Apps that build on Untrace, or share its principles, can get a verified page and a revocable badge: https://untrace.skysmindtech.com/verified
 
 ## Docs
 [Overview](docs/overview.md) · [.lockbox format](docs/lockbox-format.md) · [Burn Notes](docs/burn-notes.md) ·

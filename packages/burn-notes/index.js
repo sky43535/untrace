@@ -24,7 +24,7 @@ export async function openNote({ ct, iv, salt }, key, pass) {
 
 export class NotesClient {
   /** @param {{apiKey:string, base?:string, siteOrigin?:string}} o */
-  constructor({ apiKey, base = 'https://untrace-api.skylerp530.workers.dev', siteOrigin = 'https://untrace.skylerp530.workers.dev' }) { this.apiKey = apiKey; this.base = base; this.site = siteOrigin }
+  constructor({ apiKey, base = 'https://untrace-api.skylerp530.workers.dev', siteOrigin = 'https://untrace.skysmindtech.com' }) { this.apiKey = apiKey; this.base = base; this.site = siteOrigin }
   async #call(path, method = 'GET', body) {
     const r = await fetch(this.base + path, { method, headers: { authorization: 'Bearer ' + this.apiKey, ...(body ? { 'content-type': 'application/json' } : {}) }, body: body ? JSON.stringify(body) : undefined })
     const d = await r.json().catch(() => ({})); return { status: r.status, ...d }
